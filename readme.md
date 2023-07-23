@@ -4,6 +4,8 @@
 
 **目前最新版本为Beta0.0.2，请下载最新版本**
 
+---
+
 ## 创作历程
 
 **我创作这门语言的目的，并不是让人们一直用这门语言，虽然我希望人们这样，但这只是一个让人们感受到编程的乐趣，爱上编程并向更高级的编程语言迈进的一个语言，希望你能从这个语言中感到编程的乐趣！**
@@ -188,7 +190,7 @@
 
 ## 错误编码
 
-当代码发生错误时，会给一个错误编码，现将所有错误编码总结如下：
+当代码发生错误时，会输出一个错误编码，现将所有错误编码总结如下：
 
 1. 输入的代码不正确
 2. 输入的不是数字
@@ -204,3 +206,7 @@
 
 [下载](https://objects.githubusercontent.com/github-production-release-asset-2e65be/628495281/bb420e74-b7a7-4a58-9a84-dca9e39c12f7?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230421%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230421T140948Z&X-Amz-Expires=300&X-Amz-Signature=f9d38b746ee15c7db78dfb7fbb7dce748632f5501b8d1dac27762a7585296cab&X-Amz-SignedHeaders=host&actor_id=122024250&key_id=0&repo_id=628495281&response-content-disposition=attachment%3B%20filename%3DBeta0.0.1.rar&response-content-type=application%2Foctet-stream "下载Beta0.0.1版本")
 更新说明：基础功能
+
+## 提交建议
+
+好的作品需要集思广益，所以，如果您对程序有意见或建议，请您手动编辑邮件到**oyroyroyr@163.com**
